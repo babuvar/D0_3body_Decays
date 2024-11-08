@@ -1,0 +1,17 @@
+{
+"congam_vars" : {
+	"Inv_mass" : "daughterInvariantMass(0, 1)",
+        "X" : "x",
+        "Y" : "y",
+        "Z" : "z",
+	"Rho" : "formula( ( (x*x) + (y*y) )^0.5 )",
+	"gam_chiProb" : "chiProb",
+        "gam_pval_refit" : "pval_refit",
+	"gam_isSignal" : "isSignal",
+        "gam_mcPDG" : "mcPDG",
+	"e1_mcPDG" : "daughter(0,mcPDG)",
+        "e2_mcPDG" : "daughter(1,mcPDG)"
+}
+}
+
+
